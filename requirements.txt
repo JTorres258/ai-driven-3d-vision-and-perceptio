@@ -7,3 +7,5 @@ onnx
 onnxruntime
 timm
 einops
+psutil
+onnxscript
