@@ -4,7 +4,7 @@ Welcome to the **Drone Perception Workspace**, a cutting-edge repository geared 
 
 ## Background & Philosophy
 
-Driven by **Jorge García-Torres Fernández's** extensive background bridging Ph.D. research with production-ready Computer Vision, this project represents a fundamental transition from classical, heuristic-driven C++ CV pipelines to end-to-end Deep SLAM and multi-modal perception systems. As modern edge hardware capabilities expand, offloading classical geometric formulations to learned deep representations—such as depth and flow estimators—has become critical for scalable, resilient autonomous flight.
+This project represents a fundamental transition from classical, heuristic-driven C++ CV pipelines to end-to-end Deep SLAM and multi-modal perception systems. As modern edge hardware capabilities expand, offloading classical geometric formulations to learned deep representations—such as depth and flow estimators—has become critical for scalable, resilient autonomous flight.
 
 ## Core Modules
 
