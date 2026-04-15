@@ -50,10 +50,8 @@ Monitoring model performance post-deployment is a crucial hurdle for autonomous 
 
 ## Workspace Structure
 
-- `/applications`: High-level application logic spanning navigation and UI systems.
 - `/data`: Raw and processed multi-modal datasets.
 - `/models`: Checkpoints, ONNX exports, and saved weights.
-- `/notebooks`: Interactive Jupyter environments for exploratory data analysis and visual debugging.
 - `/scripts`: Utility scripts including our edge model export pipeline.
 - `/src`: Core deep perception mechanisms.
 
